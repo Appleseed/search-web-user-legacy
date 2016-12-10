@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace AHRI.Web
+namespace Search.Web
 {
     public partial class Search : System.Web.UI.Page
     {

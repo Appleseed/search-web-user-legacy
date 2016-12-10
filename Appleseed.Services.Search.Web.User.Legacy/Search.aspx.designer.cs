@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace AHRI.Web {
+namespace Search.Web {
     
     
     public partial class Search {
