@@ -1,0 +1,1 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="CollectionIndexListViewSummary.ascx.cs" Inherits="Appleseed.Services.Search.Web.DesktopModules.CustomModules.Anant.Search.CollectionIndexListViewSummary" %>
