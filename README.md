@@ -8,10 +8,10 @@ We may at some point create a facade API to replace this that can equally talk t
 
 ##Features##
 
-* Single Page Applications 
-* AngularJS Based (AngularJS 1.5 w/ Components /AngularJS 2 Coming)
-* Quickstart search for Elastic Search
-* Quickstart search for SolR 
+* KnockoutJS SPA talking to WCF / SVC Rest API for Autosuggest / Results
+* WCF / SVC Rest API that talkes to Lucene.NET based Index
+* Quickstart search for ASP.net Web Forms w/ Lucene.NET
+* Quickstart search for ASP.net / KnockoutJS 
 
 #Where it began#
 
